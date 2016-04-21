@@ -1,5 +1,9 @@
 ##Restfulie.Net
 
+[![Build status](https://ci.appveyor.com/api/projects/status/jiex81pmjui9o5m5?svg=true)](https://ci.appveyor.com/project/AlbertoMonteiro/restfulie-net)
+[![Coverage Status](https://coveralls.io/repos/github/AlbertoMonteiro/restfulie.net/badge.svg?branch=master)](https://coveralls.io/github/AlbertoMonteiro/restfulie.net?branch=master)
+
+
 Restfulie.Net extends ASP.NET MVC providing Content Negotiation, HTTP Status Code's ActionResults (Created, OK, etc) and Hypermedia Link Relations.
 
 For more information check Restfulie [website](http://restfulie.caelum.com.br/) and [Wiki docs](https://github.com/mauricioaniche/restfulie.net/wiki).
