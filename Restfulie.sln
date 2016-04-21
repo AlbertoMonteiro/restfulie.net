@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restfulie.Server", "Restfulie.Server\Restfulie.Server.csproj", "{18C82B7B-05CB-4AC4-967A-836FBFB1CE1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restfulie.Server", "src\Restfulie.Server\Restfulie.Server.csproj", "{18C82B7B-05CB-4AC4-967A-836FBFB1CE1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restfulie.Server.Tests", "Restfulie.Server.Tests\Restfulie.Server.Tests.csproj", "{6DF340D7-843F-4B01-BFB1-F8A5032D57C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restfulie.Server.Tests", "src\Restfulie.Server.Tests\Restfulie.Server.Tests.csproj", "{6DF340D7-843F-4B01-BFB1-F8A5032D57C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

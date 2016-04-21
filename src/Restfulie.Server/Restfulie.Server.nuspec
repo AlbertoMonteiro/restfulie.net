@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>restfulie.net</id>
+    <version>1.0.0</version>
+    <authors>Alberto Monteiro</authors>
+    <owners>Mauricio Aniche</owners>
+    <licenseUrl>https://github.com/caelum/restfulie/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/AlbertoMonteiro/restfulie.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extend ASP.NET MVC to enable the creation of RESTFul api and hypermedia aware resources.</description>
+    <language>en-US</language>
+    <tags>REST HTTP API</tags>
+  </metadata>
+</package>
