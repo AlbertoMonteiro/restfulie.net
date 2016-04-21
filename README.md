@@ -1,6 +1,7 @@
 ##Restfulie.Net
 
 [![Build status](https://ci.appveyor.com/api/projects/status/jiex81pmjui9o5m5?svg=true)](https://ci.appveyor.com/project/AlbertoMonteiro/restfulie-net)
+[![Nuget count](http://img.shields.io/nuget/v/restfulie.net.mvc5.svg)](http://www.nuget.org/packages/restfulie.net.mvc5/)
 [![Coverage Status](https://coveralls.io/repos/github/AlbertoMonteiro/restfulie.net/badge.svg?branch=master)](https://coveralls.io/github/AlbertoMonteiro/restfulie.net?branch=master)
 
 
